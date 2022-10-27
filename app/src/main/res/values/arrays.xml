@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_status_array">
+        <item>In Progress</item>
+        <item>Complete</item>
+        <item>Dropped</item>
+        <item>Plan To Take</item>
+    </string-array>
+    <string-array name="assessment_type_array">
+        <item>Objective Assessment</item>
+        <item>Performance Assessment</item>
+    </string-array>
+</resources>
