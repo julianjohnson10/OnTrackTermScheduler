@@ -10,5 +10,5 @@ An Android mobile application that allows users to schedule and organize their c
 ## Future Plans:
 - Rebuild the entire app in Kotlin.
 - Update the room database.
-- Use Jetpack Compose UI vs JavaFX
+- Use Jetpack Compose libraries
 - Upgrade to API 34
